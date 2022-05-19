@@ -23,9 +23,9 @@
   {
     "id": "4",
     "yesId":"7",
-    "noId": "4",
-    "description": "",
-    "question": ""
+    "noId": "6",
+    "description": "Youve Entered into a Mine. The place seems to be not well maintained and could fall any minute. The only two options is to go back where you cAme from or move on to The next room",
+    "question": "Will you move on to the next room?"
   },
   {
     "id": "5",
@@ -38,71 +38,71 @@
     "id": "6",
     "yesId":"4",
     "noId": "5",
-    "description": "",
-    "question": ""
+    "description": "The room feels creepy.It is full of spider web.There is no signs that someone has passed through. Shining your flash light down, you could see that there are recent footprints leeding to the next room ",
+    "question": "Will you enter the next room?"
   },
   {
     "id": "7",
     "yesId":"8",
     "noId": "4",
-    "description": "",
-    "question": ""
+    "description": "Entering the room ,you are tripped  and started sliding downwards. Due to your quick reflexes, You hold on to a rope and .You could see that down at the end of the slide there is an exit.You could climb back or let go of the rope and reach the bottom of the slide",
+    "question": "Will you let go of the rope"
   },
   {
     "id": "8",
     "yesId":"9",
     "noId": "7",
-    "description": "",
-    "question": ""
+    "description": "You reach at the end of the  slide. The room seems to be cold.Oh! its a large freezer.You could climb back the slide or move on to the next room",
+    "question": "Will you move on to the next room"
   },
   {
     "id": "9",
     "yesId":"10",
     "noId": "12",
-    "description": "",
-    "question": ""
+    "description": "The room you enter is full of mirrors.Suddenly you could see a reflection of someone else.it must me the thief. it seems like he also saw you because all of a sudden he started running. due to the mirrors and the reflections you lost the thief  and seem to be standed between two doors.",
+    "question": "Will you take the right door?"
   },
   {
     "id": "10",
     "yesId":"11",
     "noId": "9",
-    "description": "",
-    "question": ""
+    "description": "You enter a room full of sheets the next room seem to be full of water,You could hear the sound of splashing water coming from that room",
+    "question": "Will you folllow the sound?"
   },
   {
     "id": "11",
     "yesId":"13",
     "noId": "10",
-    "description": "",
-    "question": ""
+    "description": "You Enter a room full of water. The splashes seems to be getting closer",
+    "question": "will you follow to the next room?"
   },
   {
     "id": "12",
     "yesId":"10",
     "noId": "8",
-    "description": "",
-    "question": ""
+    "description": "You enter into a maze like room. You could see the shadow of the thief",
+    "question": "Will you follow the shadow"
   },
   {
     "id": "13",
     "yesId":"16",
     "noId": "14",
-    "description": "",
-    "question": ""
+    "description": "You come face to face with the thief. He looks at you the jumps into a pool of water.You follow him into the water.The water current is so strong that you can no longer see the thief.you reach 2 divergents. A left and right",
+    "question": "will you take the left"
   },
   {
     "id": "14",
-    "yesId":"13",
-    "noId": "14",
-    "description": "",
-    "question": ""
+    "yesId":"1",
+    "noId": "13",
+    "description": " It Seems you took the wrong path.The water seems to be hot.its a steam room.You could stay there or go back to up stream",
+    "question": "will you stay?"
   },
   {
     "id": "15",
-    "yesId":"",
-    "noId": "",
-    "description": "",
-    "question": ""
+    "yesId":"16",
+    "noId": "15",
+    "description": "The room seems to be a dead end",
+    "question": "will you go back to the previous room?"
   },
   {
     "id": "16",
@@ -115,69 +115,69 @@
     "id": "17",
     "yesId":"18",
     "noId": "17",
-    "description": "",
-    "question": ""
+    "description": "You've entered into a room full of machines. You shine your touch to see if the thief is hiding but there is no one tot be seen. There is no way froward",
+    "question": "will you backtrack to where you came from"
   },
   {
     "id": "18",
     "yesId":"17",
     "noId": "19",
-    "description": "",
-    "question": ""
+    "description": "You've entered into a drafty room",
+    "question": "will you proceed to the next room?"
   },
   {
     "id": "19",
     "yesId":"18",
     "noId": "20",
-    "description": "",
-    "question": ""
+    "description": "You've entered into a timber room",
+    "question": "will you proceed to the next room?"
   },
   {
     "id": "20",
     "yesId":"19",
     "noId": "22",
-    "description": "",
-    "question": ""
+    "description": "You reach at the bottom of the ladder you could see golden necklase on the floor.Its one of theitems reported stollen by the thief.You then reach a plce where you can follow the ladder downward or head into the next room",
+    "question": "Will you follow the ladder downwards?"
   },
   {
     "id": "21",
     "yesId":"20",
     "noId": "21",
-    "description": "",
-    "question": ""
+    "description": "It seems to be a dead end.The thief can't be here",
+    "question": "will you head back?"
   },
   {
     "id": "22",
     "yesId":"20",
     "noId": "23",
-    "description": "",
-    "question": ""
+    "description": "You could could see a ladder",
+    "question": "will you use the ladder?"
   },
   {
     "id": "23",
     "yesId":"22",
     "noId": "24",
-    "description": "",
-    "question": ""
+    "description": "You enter into a coal mine sand witch",
+    "question": "Will you move on to the next room"
   },
   {
     "id": "24",
     "yesId":"23",
     "noId": "26",
-    "description": "",
-    "question": ""
+    "description": "You Enter into a room where the coal pump is situated",
+    "question": "Will you move on to the next room"
   },
   {
     "id": "25",
-    "yesId":"26",
+    "yesId":"46",
     "noId": "1",
-    "description": "",
-    "question": ""
+    "description": "You've enter into a coal mine .The fumes are making it uncomfortable to breath.The thief can't be here.You told yourself.",
+    "question": "Will you move on to the next room"
   },
   {
     "id": "26",
-    "yesId":"24",
-    "noId": "25",
+    "yesId":"26",
+    "noId": "26",
     "description": "",
     "question": ""
   },
@@ -320,5 +320,12 @@
     "noId": "",
     "description": "",
     "question": ""
-  }
+  },
+  {
+  "id": "46",
+  "yesId":"24",
+  "noId": "25",
+  "description": " you've entered into leaflet",
+  "question": "Will you go to the next room"
+}
 ]
